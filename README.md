@@ -5,7 +5,8 @@ Some packages need to be installed, preferably in a separate python environment.
 ```bash
 pip install tensorflow keras matplotlib seaborn numpy pandas scikit-learn
 ```
-
+Replace ```tensorflow``` with ```tensorflow-gpu``` if needed.  
+Moreover, the trained models can be found [here](https://drive.google.com/drive/folders/1ImhjfuS17f8sec0Fpk1WAKPYWWPWG2fv?usp=sharing)
 
 ## Only for project members
 The dataset can be downloaded from [here](https://drive.google.com/file/d/11Z8bt9TwilZ1GLJFcJwWBykOicVT0ZzH/view?usp=sharing).
